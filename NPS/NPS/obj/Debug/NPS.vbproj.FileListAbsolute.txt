@@ -1,0 +1,18 @@
+c:\users\prasop\documents\visual studio 2010\Projects\NPS\NPS\bin\NPS.dll
+c:\users\prasop\documents\visual studio 2010\Projects\NPS\NPS\bin\NPS.pdb
+c:\users\prasop\documents\visual studio 2010\Projects\NPS\NPS\bin\NPS.xml
+c:\users\prasop\documents\visual studio 2010\Projects\NPS\NPS\obj\Debug\ResolveAssemblyReference.cache
+c:\users\prasop\documents\visual studio 2010\Projects\NPS\NPS\obj\Debug\NPS.Resources.resources
+c:\users\prasop\documents\visual studio 2010\Projects\NPS\NPS\obj\Debug\GenerateResource.read.1.tlog
+c:\users\prasop\documents\visual studio 2010\Projects\NPS\NPS\obj\Debug\GenerateResource.write.1.tlog
+c:\users\prasop\documents\visual studio 2010\Projects\NPS\NPS\obj\Debug\NPS.dll
+c:\users\prasop\documents\visual studio 2010\Projects\NPS\NPS\obj\Debug\NPS.xml
+c:\users\prasop\documents\visual studio 2010\Projects\NPS\NPS\obj\Debug\NPS.pdb
+\\192.168.0.21\nuii\NPS\NPS\bin\NPS.dll
+\\192.168.0.21\nuii\NPS\NPS\bin\NPS.pdb
+\\192.168.0.21\nuii\NPS\NPS\bin\NPS.xml
+\\192.168.0.21\nuii\NPS\NPS\obj\Debug\NPS.Resources.resources
+\\192.168.0.21\nuii\NPS\NPS\obj\Debug\NPS.vbproj.GenerateResource.Cache
+\\192.168.0.21\nuii\NPS\NPS\obj\Debug\NPS.dll
+\\192.168.0.21\nuii\NPS\NPS\obj\Debug\NPS.xml
+\\192.168.0.21\nuii\NPS\NPS\obj\Debug\NPS.pdb

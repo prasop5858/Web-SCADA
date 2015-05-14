@@ -1,0 +1,1412 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NPS
+</name>
+</assembly>
+<members>
+<member name="F:NPS.ChangePassword.ChangeUserPassword">
+	<summary>
+ChangeUserPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS._Default.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.ooy_car.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebRefresh1">
+	<summary>
+OPCWebRefresh1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel1">
+	<summary>
+OPCWebControlsLabel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel2">
+	<summary>
+OPCWebControlsLabel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel3">
+	<summary>
+OPCWebControlsLabel3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel4">
+	<summary>
+OPCWebControlsLabel4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel5">
+	<summary>
+OPCWebControlsLabel5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel6">
+	<summary>
+OPCWebControlsLabel6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel7">
+	<summary>
+OPCWebControlsLabel7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel8">
+	<summary>
+OPCWebControlsLabel8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel9">
+	<summary>
+OPCWebControlsLabel9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel10">
+	<summary>
+OPCWebControlsLabel10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel11">
+	<summary>
+OPCWebControlsLabel11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel12">
+	<summary>
+OPCWebControlsLabel12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel13">
+	<summary>
+OPCWebControlsLabel13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel14">
+	<summary>
+OPCWebControlsLabel14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel15">
+	<summary>
+OPCWebControlsLabel15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel16">
+	<summary>
+OPCWebControlsLabel16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel17">
+	<summary>
+OPCWebControlsLabel17 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel18">
+	<summary>
+OPCWebControlsLabel18 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel19">
+	<summary>
+OPCWebControlsLabel19 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel20">
+	<summary>
+OPCWebControlsLabel20 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel21">
+	<summary>
+OPCWebControlsLabel21 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel22">
+	<summary>
+OPCWebControlsLabel22 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel23">
+	<summary>
+OPCWebControlsLabel23 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel24">
+	<summary>
+OPCWebControlsLabel24 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel25">
+	<summary>
+OPCWebControlsLabel25 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel26">
+	<summary>
+OPCWebControlsLabel26 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel27">
+	<summary>
+OPCWebControlsLabel27 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel28">
+	<summary>
+OPCWebControlsLabel28 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel29">
+	<summary>
+OPCWebControlsLabel29 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel30">
+	<summary>
+OPCWebControlsLabel30 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel31">
+	<summary>
+OPCWebControlsLabel31 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel32">
+	<summary>
+OPCWebControlsLabel32 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel33">
+	<summary>
+OPCWebControlsLabel33 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel34">
+	<summary>
+OPCWebControlsLabel34 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel35">
+	<summary>
+OPCWebControlsLabel35 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel36">
+	<summary>
+OPCWebControlsLabel36 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel37">
+	<summary>
+OPCWebControlsLabel37 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel38">
+	<summary>
+OPCWebControlsLabel38 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel39">
+	<summary>
+OPCWebControlsLabel39 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel40">
+	<summary>
+OPCWebControlsLabel40 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel41">
+	<summary>
+OPCWebControlsLabel41 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel42">
+	<summary>
+OPCWebControlsLabel42 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel43">
+	<summary>
+OPCWebControlsLabel43 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel44">
+	<summary>
+OPCWebControlsLabel44 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel45">
+	<summary>
+OPCWebControlsLabel45 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel46">
+	<summary>
+OPCWebControlsLabel46 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel47">
+	<summary>
+OPCWebControlsLabel47 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel48">
+	<summary>
+OPCWebControlsLabel48 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel49">
+	<summary>
+OPCWebControlsLabel49 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel50">
+	<summary>
+OPCWebControlsLabel50 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel51">
+	<summary>
+OPCWebControlsLabel51 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel52">
+	<summary>
+OPCWebControlsLabel52 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel53">
+	<summary>
+OPCWebControlsLabel53 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel54">
+	<summary>
+OPCWebControlsLabel54 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel55">
+	<summary>
+OPCWebControlsLabel55 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel56">
+	<summary>
+OPCWebControlsLabel56 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel57">
+	<summary>
+OPCWebControlsLabel57 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel58">
+	<summary>
+OPCWebControlsLabel58 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel59">
+	<summary>
+OPCWebControlsLabel59 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel60">
+	<summary>
+OPCWebControlsLabel60 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel61">
+	<summary>
+OPCWebControlsLabel61 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel62">
+	<summary>
+OPCWebControlsLabel62 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel63">
+	<summary>
+OPCWebControlsLabel63 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel64">
+	<summary>
+OPCWebControlsLabel64 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel65">
+	<summary>
+OPCWebControlsLabel65 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel66">
+	<summary>
+OPCWebControlsLabel66 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel67">
+	<summary>
+OPCWebControlsLabel67 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel68">
+	<summary>
+OPCWebControlsLabel68 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel69">
+	<summary>
+OPCWebControlsLabel69 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel70">
+	<summary>
+OPCWebControlsLabel70 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel71">
+	<summary>
+OPCWebControlsLabel71 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel72">
+	<summary>
+OPCWebControlsLabel72 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel73">
+	<summary>
+OPCWebControlsLabel73 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel74">
+	<summary>
+OPCWebControlsLabel74 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel75">
+	<summary>
+OPCWebControlsLabel75 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel76">
+	<summary>
+OPCWebControlsLabel76 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel77">
+	<summary>
+OPCWebControlsLabel77 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel78">
+	<summary>
+OPCWebControlsLabel78 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel79">
+	<summary>
+OPCWebControlsLabel79 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel80">
+	<summary>
+OPCWebControlsLabel80 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel81">
+	<summary>
+OPCWebControlsLabel81 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel82">
+	<summary>
+OPCWebControlsLabel82 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel83">
+	<summary>
+OPCWebControlsLabel83 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel84">
+	<summary>
+OPCWebControlsLabel84 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel85">
+	<summary>
+OPCWebControlsLabel85 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel86">
+	<summary>
+OPCWebControlsLabel86 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel87">
+	<summary>
+OPCWebControlsLabel87 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel88">
+	<summary>
+OPCWebControlsLabel88 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel89">
+	<summary>
+OPCWebControlsLabel89 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel90">
+	<summary>
+OPCWebControlsLabel90 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel91">
+	<summary>
+OPCWebControlsLabel91 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel92">
+	<summary>
+OPCWebControlsLabel92 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel93">
+	<summary>
+OPCWebControlsLabel93 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel94">
+	<summary>
+OPCWebControlsLabel94 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel95">
+	<summary>
+OPCWebControlsLabel95 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel96">
+	<summary>
+OPCWebControlsLabel96 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel97">
+	<summary>
+OPCWebControlsLabel97 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel98">
+	<summary>
+OPCWebControlsLabel98 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel99">
+	<summary>
+OPCWebControlsLabel99 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel100">
+	<summary>
+OPCWebControlsLabel100 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel101">
+	<summary>
+OPCWebControlsLabel101 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel102">
+	<summary>
+OPCWebControlsLabel102 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel103">
+	<summary>
+OPCWebControlsLabel103 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel104">
+	<summary>
+OPCWebControlsLabel104 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel105">
+	<summary>
+OPCWebControlsLabel105 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel106">
+	<summary>
+OPCWebControlsLabel106 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel107">
+	<summary>
+OPCWebControlsLabel107 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel108">
+	<summary>
+OPCWebControlsLabel108 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel109">
+	<summary>
+OPCWebControlsLabel109 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel110">
+	<summary>
+OPCWebControlsLabel110 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel111">
+	<summary>
+OPCWebControlsLabel111 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.boiler.OPCWebControlsLabel112">
+	<summary>
+OPCWebControlsLabel112 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.allpage.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.molass.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:NPS.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:NPS.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:NPS.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:NPS.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:NPS.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:NPS.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:NPS.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:NPS.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:NPS.toa2.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.toa2.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.toa2.OPCWebRefresh1">
+	<summary>
+OPCWebRefresh1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.toa2.OPCWebControlsLabel1">
+	<summary>
+OPCWebControlsLabel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.toa2.OPCWebControlsLabel2">
+	<summary>
+OPCWebControlsLabel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.toa2.OPCWebControlsLabel3">
+	<summary>
+OPCWebControlsLabel3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.Site.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.Site.MasterPageScriptManager">
+	<summary>
+MasterPageScriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.Site.HeadLoginView">
+	<summary>
+HeadLoginView control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.Site.HeadHomeLink">
+	<summary>
+HeadHomeLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.Site.HeadAboutLink">
+	<summary>
+HeadAboutLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.Site.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebRefresh1">
+	<summary>
+OPCWebRefresh1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel1">
+	<summary>
+OPCWebControlsLabel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel2">
+	<summary>
+OPCWebControlsLabel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel3">
+	<summary>
+OPCWebControlsLabel3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel4">
+	<summary>
+OPCWebControlsLabel4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel5">
+	<summary>
+OPCWebControlsLabel5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel6">
+	<summary>
+OPCWebControlsLabel6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel7">
+	<summary>
+OPCWebControlsLabel7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel8">
+	<summary>
+OPCWebControlsLabel8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel9">
+	<summary>
+OPCWebControlsLabel9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel10">
+	<summary>
+OPCWebControlsLabel10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel11">
+	<summary>
+OPCWebControlsLabel11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel12">
+	<summary>
+OPCWebControlsLabel12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel13">
+	<summary>
+OPCWebControlsLabel13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel14">
+	<summary>
+OPCWebControlsLabel14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel15">
+	<summary>
+OPCWebControlsLabel15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel16">
+	<summary>
+OPCWebControlsLabel16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel17">
+	<summary>
+OPCWebControlsLabel17 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel18">
+	<summary>
+OPCWebControlsLabel18 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel19">
+	<summary>
+OPCWebControlsLabel19 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel20">
+	<summary>
+OPCWebControlsLabel20 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel21">
+	<summary>
+OPCWebControlsLabel21 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel22">
+	<summary>
+OPCWebControlsLabel22 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel23">
+	<summary>
+OPCWebControlsLabel23 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel24">
+	<summary>
+OPCWebControlsLabel24 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel25">
+	<summary>
+OPCWebControlsLabel25 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel26">
+	<summary>
+OPCWebControlsLabel26 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel27">
+	<summary>
+OPCWebControlsLabel27 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.home.OPCWebControlsLabel28">
+	<summary>
+OPCWebControlsLabel28 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.lookheeb.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.lookheeb.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.lookheeb.OPCWebRefresh1">
+	<summary>
+OPCWebRefresh1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.lookheeb.OPCWebControlsLabel1">
+	<summary>
+OPCWebControlsLabel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.Login.LoginUser">
+	<summary>
+LoginUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.Register.RegisterUser">
+	<summary>
+RegisterUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.Register.RegisterUserWizardStep">
+	<summary>
+RegisterUserWizardStep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.electric.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:NPS.maintenance.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
